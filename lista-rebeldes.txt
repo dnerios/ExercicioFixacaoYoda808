@@ -1,0 +1,1 @@
+[Rebelde(nome=Rebelde 1, idade=25, raca=Gree), Rebelde(nome=Rebelde 2, idade=28, raca=Humano), Rebelde(nome=Rebelde 3, idade=28, raca=Gree), null, null, null, null, null, null, null]
